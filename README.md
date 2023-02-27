@@ -1,3 +1,8 @@
+## Next JS OpenJira App
+Para correr localmente, se necesita la BD
+```
+docker-compose up -d
+```
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
